@@ -1,5 +1,5 @@
-README - Network Reconnaissance Task (Task 1)
-================================================
+README - Network Reconnaissance
+=================================
 
 Project: Local Network Port Scan
 Date: Mon Sep 22, 2025
