@@ -56,5 +56,4 @@ Next steps (optional):
 Legal/Ethical reminder:
 Only scan networks and devices you own or have explicit permission to test. Unauthorized scanning can be illegal and may be treated as malicious activity.
 
-Contact / Notes:
-Prepared by: [Ashish Ansal]
+Prepared by: Ashish Ansal
