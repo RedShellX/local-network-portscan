@@ -57,5 +57,4 @@ Legal/Ethical reminder:
 Only scan networks and devices you own or have explicit permission to test. Unauthorized scanning can be illegal and may be treated as malicious activity.
 
 Contact / Notes:
-Prepared for: Cyber Security Internship Task 1
 Prepared by: [Ashish Ansal]
